@@ -1,0 +1,76 @@
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Debug\bank.Book.resources
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Debug\bank.Deposit.resources
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Debug\bank.Signup.resources
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Debug\bank.Form2.resources
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Debug\bank.Properties.Resources.resources
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Debug\bank.csproj.GenerateResource.Cache
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\bin\Debug\bank.exe
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\bin\Debug\bank.pdb
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Debug\bank.exe
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Debug\bank.pdb
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Debug\bank.Login.resources
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Debug\bank.With.resources
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Debug\bank.Detail.resources
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Debug\bank.Form3.resources
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Debug\bank.Form4.resources
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Debug\bank.Form5.resources
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Debug\bank.Form6.resources
+G:\bank\bank\obj\x86\Debug\bank.exe
+G:\bank\bank\obj\x86\Debug\bank.pdb
+K:\bank\bank\obj\x86\Debug\bank.exe
+K:\bank\bank\obj\x86\Debug\bank.pdb
+F:\bank\bank\obj\x86\Debug\bank.exe
+F:\bank\bank\obj\x86\Debug\bank.pdb
+F:\bank\bank\bin\Debug\bank.exe
+F:\bank\bank\bin\Debug\bank.pdb
+F:\bank\bank\obj\x86\Debug\bank.Book.resources
+F:\bank\bank\obj\x86\Debug\bank.Deposit.resources
+F:\bank\bank\obj\x86\Debug\bank.Detail.resources
+F:\bank\bank\obj\x86\Debug\bank.Signup.resources
+F:\bank\bank\obj\x86\Debug\bank.Form2.resources
+F:\bank\bank\obj\x86\Debug\bank.Form3.resources
+F:\bank\bank\obj\x86\Debug\bank.Form4.resources
+F:\bank\bank\obj\x86\Debug\bank.Form5.resources
+F:\bank\bank\obj\x86\Debug\bank.Form6.resources
+F:\bank\bank\obj\x86\Debug\bank.Login.resources
+F:\bank\bank\obj\x86\Debug\bank.Properties.Resources.resources
+F:\bank\bank\obj\x86\Debug\bank.With.resources
+F:\bank\bank\obj\x86\Debug\bank.csproj.GenerateResource.Cache
+D:\bank\bank\obj\x86\Debug\bank.exe
+D:\bank\bank\obj\x86\Debug\bank.pdb
+D:\bank\bank\bin\Debug\bank.exe
+D:\bank\bank\bin\Debug\bank.pdb
+D:\bank\bank\obj\x86\Debug\bank.Book.resources
+D:\bank\bank\obj\x86\Debug\bank.Deposit.resources
+D:\bank\bank\obj\x86\Debug\bank.Detail.resources
+D:\bank\bank\obj\x86\Debug\bank.Signup.resources
+D:\bank\bank\obj\x86\Debug\bank.Form2.resources
+D:\bank\bank\obj\x86\Debug\bank.Form3.resources
+D:\bank\bank\obj\x86\Debug\bank.Form4.resources
+D:\bank\bank\obj\x86\Debug\bank.Form5.resources
+D:\bank\bank\obj\x86\Debug\bank.Form6.resources
+D:\bank\bank\obj\x86\Debug\bank.Login.resources
+D:\bank\bank\obj\x86\Debug\bank.Properties.Resources.resources
+D:\bank\bank\obj\x86\Debug\bank.With.resources
+D:\bank\bank\obj\x86\Debug\bank.csproj.GenerateResource.Cache
+E:\bank\bank\obj\x86\Debug\bank.exe
+E:\bank\bank\obj\x86\Debug\bank.pdb
+E:\bank\bank\bin\Debug\bank.exe
+E:\bank\bank\bin\Debug\bank.pdb
+E:\bank\bank\obj\x86\Debug\bank.csprojResolveAssemblyReference.cache
+E:\bank\bank\obj\x86\Debug\bank.Book.resources
+E:\bank\bank\obj\x86\Debug\bank.Deposit.resources
+E:\bank\bank\obj\x86\Debug\bank.Detail.resources
+E:\bank\bank\obj\x86\Debug\bank.Signup.resources
+E:\bank\bank\obj\x86\Debug\bank.Form2.resources
+E:\bank\bank\obj\x86\Debug\bank.Form3.resources
+E:\bank\bank\obj\x86\Debug\bank.Form4.resources
+E:\bank\bank\obj\x86\Debug\bank.Form5.resources
+E:\bank\bank\obj\x86\Debug\bank.Form6.resources
+E:\bank\bank\obj\x86\Debug\bank.Login.resources
+E:\bank\bank\obj\x86\Debug\bank.Properties.Resources.resources
+E:\bank\bank\obj\x86\Debug\bank.With.resources
+E:\bank\bank\obj\x86\Debug\bank.csproj.GenerateResource.Cache
+E:\bank\bank\bin\Debug\bank.exe.config
+G:\bank\bank\bin\Debug\bank.exe.config
+D:\bank\bank\bin\Debug\bank.exe.config

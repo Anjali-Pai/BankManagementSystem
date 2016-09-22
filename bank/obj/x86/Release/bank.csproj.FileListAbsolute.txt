@@ -1,0 +1,6 @@
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Release\bank.Book.resources
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Release\bank.Deposit.resources
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Release\bank.Signup.resources
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Release\bank.Form2.resources
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Release\bank.Properties.Resources.resources
+C:\Users\Sheetal\AppData\Local\Temporary Projects\bank\obj\x86\Release\bank.csproj.GenerateResource.Cache
